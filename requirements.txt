@@ -1,0 +1,10 @@
+asn1crypto==0.24.0
+bcrypt==3.1.4
+cffi==1.11.5
+cryptography==2.3.1
+idna==2.7
+paramiko==2.4.1
+pyasn1==0.4.4
+pycparser==2.18
+PyNaCl==1.2.1
+six==1.11.0
